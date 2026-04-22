@@ -10,6 +10,8 @@ also known as (BBiEaL\_3-28-18 23;22.zip)
 
 [Get the Decompile here](https://github.com/SillyMonkeyFlip/Baldi-s-Basics-Build-7-Decompile-Build-3-28-18-23-22-/releases)
 
+[Play the WebGL Build Here!](https://sillymonkeyflip.github.io/Baldi-s-Basics-Build-7-Decompile-Build-3-28-18-23-22-/)
+
 [Get the Game here (BBiEaL (3-28-18 23;22.zip)](https://basically-games.itch.io/baldis-basics-classic-archives)
 
 
