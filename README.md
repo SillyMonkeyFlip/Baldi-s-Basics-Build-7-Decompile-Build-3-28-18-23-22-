@@ -25,7 +25,8 @@ also known as (BBiEaL\_3-28-18 23;22.zip)
 
 ## Credits
 
-- Mystman12 - Creator of Baldi's basics 
+- Mystman12 - Creator of Baldi's basics
+- [Baldi's Basics Archives](https://basically-games.itch.io/baldis-basics-classic-archives) - Where I found this build!
 - SillyMonkeyFlip - Decompiler and WebGL Compiler
 
 
